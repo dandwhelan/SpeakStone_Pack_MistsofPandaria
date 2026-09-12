@@ -1,4 +1,4 @@
-QuestReaderSoundLengths_Pack_MistsofPandaria = {
+SpeakStoneSoundLengths_Pack_MistsofPandaria = {
     ["11522_description.ogg"] = 10.02,
     ["29404_description.ogg"] = 4.98,
     ["29405_description.ogg"] = 9.89,
