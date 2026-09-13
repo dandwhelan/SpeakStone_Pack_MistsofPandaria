@@ -1,5 +1,6 @@
 ## Interface: 110207, 120000, 120001, 120100
 ## X-Interface: 110207, 120000, 120001, 120100
+## X-Wago-ID: E6gv9LN1
 ## Title: SpeakStone Narration - Mists of Pandaria Voices
 ## Notes: Mists of Pandaria quest audio for SpeakStone Narration. Requires SpeakStone_Main.
 ## Author: clhammer weirdautomation@gmail.com, Paratus
