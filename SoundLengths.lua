@@ -228,6 +228,7 @@ SpeakStoneSoundLengths_Pack_MistsofPandaria = {
     ["29733_completion.ogg"] = 8.85,
     ["29733_description.ogg"] = 12.61,
     ["29733_progress.ogg"] = 3.60,
+    ["29743_completion.ogg"] = 4.80,
     ["29743_description.ogg"] = 20.10,
     ["29745_completion.ogg"] = 7.70,
     ["29745_description.ogg"] = 14.69,
